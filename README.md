@@ -10,18 +10,18 @@ NOTE: If you are using any other launcher, you will have to figure it out for yo
 
 ## **<u>Install Steps (ATLauncher)</u>**
 
-1.  Install ATL from <https://atlauncher.com/downloads> **If your using the portable version, make sure its in its own folder.** Go through the setup until you get to the main screen
-![alt text](Images/Stp1.png)
-<br />
-2.  Sign in by going to the "Accounts" tab and click "Login with Microsoft"
-![alt text](Images/Stp2.png)
-<br />
+1.  Install ATL from <https://atlauncher.com/downloads> **If your using the portable version, make sure its in its own folder.** Go through the setup until you get to the main screen 
+![ATLauncher Home](Images/Stp1.png)
+
+2.  Sign in by going to the "Accounts" tab and click "Login with Microsoft" 
+![ATL Login](Images/Stp2.png)
+
 3.  Once signed in, navigate to the "Instances" tab and click "Import" in the top left of the window
-![alt text](Images/Stp3.png)
-<br />
+![ATL Instance Import](Images/Stp3.png)
+
 4.  After clicking on "Import" locate the pack by clicking on "Browse" and use the popup (Right) to find the pack ZIP (Might be in your downloads folder) Click on "Open" once selected and the click on "Import" on the "Import Instance" window (Left)
-![alt text](Images/Stp4.png)
-<br />
+![ATL Import](Images/Stp4.png)
+
 That's all! Just hit "Play" to launch the pack!
 
 ## **<u>Optional but recommended</u>**
